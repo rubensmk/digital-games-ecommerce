@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rubensmk/onebitcode_ecommerce_api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rubensmk/onebitcode_ecommerce_web
